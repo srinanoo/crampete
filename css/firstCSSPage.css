@@ -1,0 +1,16 @@
+* {
+	
+}
+
+@font-face {
+	font-family: 'whatever';
+	src: url('');
+}
+
+h1 {
+	color: blue;
+}
+
+p {
+	font-size: 30px;
+}
